@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import logo from './logo.svg'
-import './sass/App.scss'
 
 function App() {
   const [count, setCount] = useState(0)
